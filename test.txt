@@ -1,0 +1,16 @@
+f = 0
+b = 1
+c = 1
+a = b + c 
+d = - a 
+e = d + f 
+f = 2 * e 
+b = d + e 
+e = e - 1
+b = f + c
+g = d * f
+h = g + 1
+a = h + c
+y = a
+z = y - h
+return
